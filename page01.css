@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.re{
+   background-image: linear-gradient(rgba(0,0,0,0.5),#585858),url( imagee.jpg);
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+  
+}
+
+
+   .rw{
+    height: 30%;
+    position: absolute;
+    top: -55px;
+    left: 9px;
+    width: 20%;
+    
+   }
+   
+   ul{
+      
+      list-style: none;
+      float: right;
+      display: flex;
+      margin-top: 29px;
+     
+   }
+   ul li a{
+      text-decoration: none;
+    text-transform: uppercase;
+      color: #fff;
+      padding: 15px 39px;
+      
+    
+   }
+ ul li a:hover{
+   background-color: rgb(190, 190, 190);
+ }
+.text{
+   position: absolute;
+   top: 28%;
+   left: 35%;
+   color: #fff;
+   font-size: 18px;
+   transform: translate(-50% -50%);
+}
+.button{
+   position: absolute;
+   top: 42%;
+   left: 36%;
+
+   transform: translate(-50% -50%);
+   
+}
+.button a{
+   text-decoration: none;
+   padding: 20px 30px;
+   color: #fff;
+
+}
+
+
+.btn{
+   transition: 0.5s ease;
+} 
+.btn:hover{
+   background-color: #262525;
+}
+.container{
+margin: 40px auto;
+width: 50px;
+padding: 100px auto;
+}
+img{
+   float: right;
+   width: 30%;
+   height: 30%;
+
+}
+.text1{
+   font-family:sans-serif;
+   padding: 40px;
+   font-size: 20px;
+}
+h2{
+   font-family: sans-serif;
+   font-size: 33px;
+}
+ .button1{
+
+
+   top: 42%;
+   left: 36%;
+}
+.button1 a{
+   text-decoration: none;
+   padding: 20px 30px;
+   color:#fff;
+   border: 5px solid ;
+   padding: 19px 20px ;
+   margin: 35px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bt{
+  
+      transition: 0.4s ease;
+      background-color: black;
+}
+.bt:hover{
+   background-color: darkorange;
+}
+H3{
+   text-align: center;
+}
+.container1{
+   display: flex;
+   justify-content: center;
+   height: 100vh;
+   align-items: center;
+}
+   
+   
+   
